@@ -65,7 +65,7 @@ _____
 #### ¿Hablamos?☕️
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/valentin-ruggieri-126868218/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="https://www.linkedin.com/in/valentin-ruggieri-126868218/"height="30"width="40"/></a>
+  <a href="www.linkedin.com/in/ValentinRuggieri" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="https://www.linkedin.com/in/valentin-ruggieri-126868218/"height="30"width="40"/></a>
 </p>
 
 
@@ -75,7 +75,5 @@ _____
 #### Algunas estadisticas 📊  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valen-ruggieri&show_icons=true&theme=dark&locale=en&layout=compact" alt="valen-ruggieri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valen-ruggieri&show_icons=true&theme=dark&locale=en" alt="valen-ruggieri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valen-ruggieri&show_icons=true&theme=dark&locale=en&layout=compact" alt="valen-ruggieri" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valen-ruggieri&show_icons=true&theme=dark&locale=en" alt="valen-ruggieri" /></p>
 
