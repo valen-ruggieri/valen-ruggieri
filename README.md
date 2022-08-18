@@ -6,7 +6,7 @@
 
 #### Actualmente me dedico a:
 
-- Reforzar conocimientos sobre el stack tecnológico MERN y nuevas tecnologías (React Native y Java) 📚
+- Reforzar conocimientos sobre el stack tecnológico MERN y React Native 📚
 - Colaborar en proyectos de grupos dictados por bootcamps y otros de la comunidad 👥 
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo 🔎 
 - Adquirir conocimientos realizar practicas y desarrollar proyectos a modo de experiencia para mi primer trabajo tech 👨‍💻 
