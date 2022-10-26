@@ -9,7 +9,7 @@
 - Reforzar conocimientos sobre el stack tecnológico MERN y React Native 📚
 - Colaborar en proyectos de grupos dictados por bootcamps y practicas de la comunidad 👥 
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo 🔎 
-- Adquirir conocimientos realizar practicas y desarrollar proyectos a modo de experiencia para mi primer trabajo tech 👨‍💻 
+- Adquirir conocimientos, realizar practicas y desarrollar proyectos a modo de experiencia 👨‍💻 
 ___
 
 
@@ -76,5 +76,5 @@ _____
 #### Algunas estadisticas 📊  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valen-ruggieri&show_icons=true&theme=dark&locale=en&layout=compact" alt="valen-ruggieri" /></p><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=valen-ruggieri&show_icons=true&theme=dark&locale=en" alt="valen-ruggieri" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=valen-ruggieri&show_icons=true&theme=dark&locale=en" alt="valen-ruggieri" /></p>
 
