@@ -1,13 +1,13 @@
 
 <h1 align="center">Hola 👋, yo soy Valentin Ruggieri</h1>
-<h3 align="center">Un entusiasta desarrollador web junior full-stack de Argentina 💻🖱</h3>
+<h3 align="center">Un entusiasta junior full-stack de Argentina 💻🖱</h3>
 
 
 
 #### Actualmente me dedico a:
 
 - Reforzar conocimientos sobre el stack tecnológico MERN y React Native 📚
-- Colaborar en proyectos de grupos dictados por bootcamps y otros de la comunidad 👥 
+- Colaborar en proyectos de grupos dictados por bootcamps y practicas de la comunidad 👥 
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo 🔎 
 - Adquirir conocimientos realizar practicas y desarrollar proyectos a modo de experiencia para mi primer trabajo tech 👨‍💻 
 ___
