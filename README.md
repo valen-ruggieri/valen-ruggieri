@@ -10,7 +10,7 @@
 - Colaborar en proyectos de grupos dictados por bootcamps y practicas de la comunidad 👥 
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo 🔎 
 - Adquirir conocimientos, realizar practicas y desarrollar proyectos a modo de experiencia 👨‍💻 
-___
+
 
 
 <h2 align="center"> Mis conocimientos </h2>
@@ -76,5 +76,5 @@ _____
 #### Algunas estadisticas 📊  
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=valen-ruggieri&show_icons=true&theme=dark&locale=en" alt="valen-ruggieri" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=valen-ruggieri&show_icons=true&theme=algolia&locale=en" alt="valen-ruggieri"  /></p>
 
